@@ -59,7 +59,7 @@ table {
   padding: 1.4rem;
 }
 .mobile-nav .hamburger-menu {
-  height: 8vh;
+  height: 10vh;
   width: 20%;
   display: flex;
   justify-content: center;
@@ -82,10 +82,11 @@ table {
   background: #D5E0DD;
 }
 .banner .first-text {
-  font-size: 2rem;
+  font-size: 16px;
 }
 .banner .paragraph {
   margin-top: 30px;
+  font-size: 16px;
 }
 .banner button {
   padding: 10px 50px;
