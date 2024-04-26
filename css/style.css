@@ -136,7 +136,7 @@ table {
 }
 .mission .image .overlay {
   height: 40vh;
-  background: rgba(0, 0, 0, 0.704);
+  background: brown;
   color: white;
   display: flex;
   flex-direction: column;
